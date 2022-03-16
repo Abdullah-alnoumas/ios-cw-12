@@ -32,3 +32,29 @@ func Grade(first:Int,second:Int,third:Int)->String{
 print(Grade(first:78, second:89 , third:98))
 
 
+func Name()->String{
+    
+    return "Abdullah Al Noumas"
+    
+}
+
+var z=Name()
+print(z)
+
+func Arth(x:Int,y:Int){
+    print(x+y)
+    print(x-y)
+    print(x*y)
+    print(x/y)
+}
+
+
+
+Arth(x:50,y:12) 
+
+
+
+
+
+
+
